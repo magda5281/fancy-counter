@@ -4,11 +4,11 @@ A minimal React counter application built with Vite showcasing React hooks (useS
 
 ## Features
 
-- Simple counter with increment, decrement, and reset functionality
+**- Simple counter with increment up to limit (set to 5) , decrement, and reset functionality**
 
-- Keyboard support (Space key to increment)
+**- Keyboard support (Space key to increment up to limit - set to 5in the app)**
 
-- Component-based architecture:
+**- Component-based architecture:**
 
 - Title
 
@@ -16,8 +16,10 @@ A minimal React counter application built with Vite showcasing React hooks (useS
 
 - ResetButton
 
-- ButtonContainer (with Plus/Minus icons from Radix UI)
+- ButtonContainer
 
-- Responsive styling with plain CSS
+- ButtonCount (with Plus/Minus icons from Radix UI)
 
-- Fast Refresh with Vite + React plugin
+**- Responsive styling with plain CSS**
+
+**- Fast Refresh with Vite + React plugin**
